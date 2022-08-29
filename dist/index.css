@@ -11271,3 +11271,9 @@ h1:not(:first-child) {
 .header-info .contact .contact-item+.contact-item {
   border-left: 1px solid #888
 }
+
+@media print {
+  .no-print {
+    visibility: hidden;
+  }
+}
