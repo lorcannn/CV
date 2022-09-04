@@ -28,11 +28,13 @@
               <% } %>
               <div class="name"><%= headerInfo.name %></div>
               <div class="contact">
-                <div class="contact-item"><%= headerInfo.phone %></div>
-                <div class="contact-item"><%= headerInfo.email %></div>
+                <div class="contact-item"><%= headerInfo.position %></div>
                 <div class="contact-item"><%= headerInfo.base %></div>
               </div>
-              <div><%= headerInfo.position %></div>
+              <div class="contact">
+                <div class="contact-item"><%= headerInfo.phone %></div>
+                <div class="contact-item"><%= headerInfo.email %></div>
+              </div>
             </div>
             <% } %>
             <div id="markdown-body"><%- markdown %></div>
