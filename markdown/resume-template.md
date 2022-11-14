@@ -113,7 +113,7 @@
 
 # 教育经历
 
-<p align="left">福建师范大学闽南科技学院 - 生物工程 本科 生命科学与化学系<span style="float:right;">2011.09 - 2015.07</span></p>
+<p align="left">福建师范大学闽南科技学院 - 生物工程 统招全日制本科 <span style="float:right;">2011.09 - 2015.07</span></p>
 
 # 致谢
 
