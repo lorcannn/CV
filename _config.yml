@@ -1,13 +1,13 @@
 # 网页的 Title，在浏览器标签页里可以看到
-title: '吕坤的简历' 
+title: "吕坤的简历"
 
 # 如果部署的时候部署放在根目录而是子目录的，就要配置 publicPath
 # 比如在 GitHub Pages 里，需要配置为项目名称，如下。
-# 可以不配置，默认是 / 
-publicPath: '/'
+# 可以不配置，默认是 /
+publicPath: "/"
 
 # 简历 markdown 地址，相对本配置文件的。必须
-resumePath: './markdown/resume-template.md'
+resumePath: "./markdown/resume-template.md"
 
 # 是否展示头部基本信息。true 的话要设置下面的 headerInfo。
 showHeader: true
@@ -15,8 +15,9 @@ headerInfo:
   # 头像，相对本配置文件路径，或者 URL
   # photo: 'https://avatars1.githubusercontent.com/u/22113206?s=460&v=4'
   # photo: './markdown/avatar.jpeg'
-  name: '吕坤'
-  phone: '17660847067'
-  email: 'lvkun454650@163.com'
-  base: '杭州'
-  position: '高级前端开发工程师'
+  name: "吕坤"
+  phone: "17660847067"
+  email: "lvkun454650@163.com"
+  base: "杭州"
+  edu: "全日制本科"
+  position: "高级前端开发工程师"

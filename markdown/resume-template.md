@@ -97,7 +97,7 @@
 
 # 工作经历
 
-<p align="left">语忆科技 - 前端开发工程师<span style="float:right;">2021.10 - 2022.09</span></p>
+<p align="left">杭州语忆科技有限公司 - 前端开发工程师<span style="float:right;">2021.10 - 2022.09</span></p>
 
 - 前端业务组件库
 - 客服智能管理系统
