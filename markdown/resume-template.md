@@ -11,7 +11,7 @@
 - 持续关注和使用 ES6+ 新特性，如解构赋值，模板字符串，扩展运算符，空值合并运算，可选链运算
 - 熟悉 **Promise，Async/await** 的异步解决方案
 - 能够使用原生 JS 配合 Electron 开发桌面应用
-- 能够使用原生 CSS 完成常见布局和样式，使用 Less 或 CSS-in-JS 方案经验
+- 能够使用原生 CSS 完成常见布局和样式，使用 **Less** 或 **CSS-in-JS** 方案经验
 
 ### React
 
@@ -30,7 +30,7 @@
 ### 前端工程化
 
 - 对前端工程化有一定理解
-- 理解 **webpack** 运行流程，有 从 0 到 1 搭建项目和构建优化的能力，可编写自定义 Loader 和 Plugin，使用合理的 source-map 方案
+- 理解 **webpack** 运行流程，有 从 0 到 1 搭建项目和构建优化的能力，可编写自定义 **Loader** 和 **Plugin**，使用合理的 **source-map** 方案
 - 熟练使用 **Git** 进行代码及分支管理，熟悉常用 Git 命令
 - 能够使用 **Chrome DevTools** 进行代码调试和性能分析，使用 **React Developer Tools** 调试 React 组件和性能分析
 
@@ -97,12 +97,12 @@
 
 # 工作经历
 
-<p align="left">语忆科技 - 前端开发工程师<span style="float:right;">2021.08 - 至今</span></p>
+<p align="left">语忆科技 - 前端开发工程师<span style="float:right;">2021.10 - 2022.09</span></p>
 
 - 前端业务组件库
 - 客服智能管理系统
 
-<p align="left">博彦科技股份有限公司 - 前端开发工程师<span style="float:right;">2019.09 - 2021.08</span></p>
+<p align="left">博彦科技股份有限公司 - 前端开发工程师<span style="float:right;">2019.11 - 2021.10</span></p>
 
 - 阿里云盘 Web 端
 - 云智能财务管理平台
