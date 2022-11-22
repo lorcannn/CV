@@ -12,7 +12,9 @@ function _curry(fn) {
     if (args.length < len) {
       return func;
     } else {
-      return fn.apply(this, args);
+      const r = fn.apply(this, args);
+      args = [];
+      return r;
     }
   };
 }

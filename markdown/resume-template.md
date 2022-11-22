@@ -102,7 +102,7 @@
 - 前端业务组件库
 - 客服智能管理系统
 
-<p align="left">博彦科技股份有限公司 - 前端开发工程师<span style="float:right;">2019.11 - 2021.10</span></p>
+<p align="left">博彦科技股份有限公司 - 前端开发工程师<span style="float:right;">2019.12 - 2021.10</span></p>
 
 - 阿里云盘 Web 端
 - 云智能财务管理平台
